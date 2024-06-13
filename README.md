@@ -8,7 +8,7 @@ I am a passionate Cybersecurity student at Ecole 2600, driven by a curiosity for
 
 - I'm currently a Student of [2600](https://ecole2600.com).
 - I write, articles and writeup of CTF Challenges on my website [Br4guette.zip](https://br4guette.zip), accumulating over 20k views within just 2 months.
-- Fondator and Dev of the project [pyDFIR](https://hackernoon.com/), contributing to the forensics community.
+- Fondator and Dev of the project [pyDFIR](https://github.com/PyDFIR/pyDFIRRam), contributing to the forensics community.
 - Member of CTF Team [Phreaks 2600](https://phreaks2600.fr) and also a member of MadeInFrance
 
 
