@@ -2,7 +2,7 @@
 
 I am a passionate Cybersecurity student at Ecole 2600, driven by a curiosity for Blue Team, a love for writing. My journey involves delving into the world of Cybersecuiryt, exploring new ideas, and sharing my insights with the community.
 
-![Br4guette's Stats](https://github-readme-stats.vercel.app/api?usernameSton14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Br4guette's Stats](https://github-readme-stats.vercel.app/api?username=Ston14&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ I am a passionate Cybersecurity student at Ecole 2600, driven by a curiosity for
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,c,asm,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,rust)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
